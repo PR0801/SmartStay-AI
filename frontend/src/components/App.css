@@ -1,0 +1,26 @@
+.main-content {
+  background: #f4f8f5;
+  color: #173629;
+  min-height: 100vh;
+}
+
+.main-content a {
+  color: #176b48;
+  font-weight: 800;
+}
+
+.order-tracking {
+  background: #ffffff;
+  border: 1px solid #d7e7df;
+  border-radius: 8px;
+  margin-top: 1rem;
+  padding: 1rem;
+}
+
+.watermark {
+  color: rgba(23, 107, 72, 0.08);
+  font-size: 3rem;
+  font-weight: 900;
+  pointer-events: none;
+  text-align: right;
+}
